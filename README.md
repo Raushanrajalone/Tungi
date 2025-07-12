@@ -1,10 +1,10 @@
-# 🏷️ Smart Automated Product Labeling and Traceability System
+# Smart Automated Product Labeling and Traceability System
 
 This project, developed under the **Intel® Unnati Program**, is a hybrid solution combining **hardware simulation**, **AI-based label inspection**, and a **software dashboard** to automate product labeling, verify label integrity, and ensure traceability throughout the product lifecycle.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The system automates the process of labeling and verifying products on a simulated assembly line. It supports:
 - Label generation with QR/barcode
@@ -15,7 +15,7 @@ The system automates the process of labeling and verifying products on a simulat
 
 ---
 
-## 🔧 Project Structure
+##  Project Structure
 
 ├── frontend/ # Flutter or React app UI
 ├── ai_model/ # AI & OCR scripts (YOLO, EasyOCR)
@@ -24,13 +24,8 @@ The system automates the process of labeling and verifying products on a simulat
 ├── screenshots/ # UI mockups and final output
 ├── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
----
-
-## 📱 Software + UI/UX (Team Member 1)
+## Software + UI/UX (Team Member 1)
 
 - Built using **Flutter** / **React**
 - Features login, register, forgot password
@@ -40,7 +35,7 @@ Edit
 
 ---
 
-## 🧠 AI/ML (Team Member 2)
+##  AI/ML (Team Member 2)
 
 - **OCR & Verification** using **EasyOCR**
 - **Defect Detection** using **YOLOv5**
@@ -50,7 +45,7 @@ Edit
 
 ---
 
-## 🔌 Hardware Simulation (Team Member 3)
+##  Hardware Simulation (Team Member 3)
 
 - Simulated using **Tinkercad Circuits** / **Proteus**
 - Arduino-based sensors and actuators
@@ -59,7 +54,7 @@ Edit
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 | Category     | Tools / Technologies               |
 |--------------|------------------------------------|
@@ -71,7 +66,7 @@ Edit
 
 ---
 
-## 📊 Features
+##  Features
 
 - ✅ Secure login & register
 - ✅ QR/Barcode scanning & generation
@@ -82,7 +77,7 @@ Edit
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 > See `/screenshots` folder for:
 - App UI
@@ -94,35 +89,35 @@ Edit
 
 ## 📄 How to Run
 
-### 🔹 Frontend
+### Frontend
 ```bash
 cd frontend/
 flutter run
-🔹 AI Model
+ AI Model
 
 cd ai_model/
 python run_ocr.py
 python detect_fault.py
-🔹 Hardware Simulation
+ Hardware Simulation
 Open /hardware_sim Arduino code in Tinkercad
 
 Simulate using IR sensor & servo logic
 
-📽️ Demo Video
-📎 Link to recorded demo: [Add your Google Drive/YouTube link here]
+📽 Demo Video
+ Link to recorded demo: [Add your Google Drive/YouTube link here]
 
-📘 License
+ License
 This project is for educational purposes under the Intel Unnati program.
 Licensed under the MIT License.
 
-🤝 Acknowledgements
+ Acknowledgements
 Intel® Unnati Program
 
 Faculty Mentors and Department
 
 Open-source communities
 
-✉️ Contact
+ Contact
 For any queries, reach out to us via GitHub Issues or email: [youremail@example.
 
 Let me know if you want help creating a `LICENSE` file or uploading this to
